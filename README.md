@@ -1,8 +1,8 @@
-# 👉 Template Laravel 10 pakai Tailwind CSS
+# 👉 Template Laravel^10.3.3 pakai Tailwind^3.4.17
 
-Versi Laravel yang digunakan: [Laravelv10.3.3](https://laravel.com/docs/10.x)
+Versi Laravel yang digunakan: [Laravel^10.3.3](https://laravel.com/docs/10.x)
 
-Template yang digunakan: [Tailwindv3.4.17](https://v3.tailwindcss.com/docs/guides/laravel)
+Template yang digunakan: [Tailwind^3.4.17](https://v3.tailwindcss.com/docs/guides/laravel)
 
 ---
 
@@ -16,10 +16,10 @@ Template yang digunakan: [Tailwindv3.4.17](https://v3.tailwindcss.com/docs/guide
 
 ```bash
 # 1. Clone project
-git clone https://github.com/fann133/template-laravelv10.3.3_tailwindv3.4.17.git
+git clone https://github.com/fann133/template-laravel-10.3.3_tailwind-3.4.17.git
 
 # 2. Masuk ke folder project
-cd template-laravelv10.3.3_tailwindv3.4.17
+cd template-laravel-10.3.3_tailwind-3.4.17
 
 # 3. Install dependencies Laravel
 composer install
