@@ -1,4 +1,4 @@
-# 💸 Template Laravel 10 pakai Tailwind CSS
+# 👉 Template Laravel 10 pakai Tailwind CSS
 
 Versi Laravel yang digunakan: [Laravelv10.3.3](https://laravel.com/docs/10.x)
 
