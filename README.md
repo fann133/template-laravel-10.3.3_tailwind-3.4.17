@@ -34,8 +34,8 @@ cp .env.example .env
 php artisan key:generate
 
 # 7. Jalankan npm
-npm run build  //Saat lokal atau ngoding
-npm run dev   //Saat mau upload ke hosting
+npm run dev   //Saat lokal atau ngoding
+npm run build  //Saat mau upload ke hosting
 
 # 8. Jalankan server lokal
 php artisan serve
